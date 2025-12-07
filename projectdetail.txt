@@ -1,0 +1,12 @@
+PROJECT 3 — News Category Classifier 
+
+Goal: Build an NLP model that classifies news into topics such as Sports, Politics, Tech, Business, Entertainment, etc.
+
+Tools we use:
+✔ Python
+✔ Pandas
+✔ NLTK
+✔ Scikit-learn
+✔ TF-IDF
+✔ Logistic Regression / SVM
+✔ Streamlit (Optional UI)
