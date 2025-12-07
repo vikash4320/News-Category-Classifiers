@@ -10,3 +10,8 @@ Tools we use:
 ✔ TF-IDF
 ✔ Logistic Regression / SVM
 ✔ Streamlit (Optional UI)
+
+
+
+First run train.py then two create automatical .pkl
+2>run app.py file :ui 
